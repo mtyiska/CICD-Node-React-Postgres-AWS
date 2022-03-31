@@ -83,9 +83,7 @@ Step 22 run nginx script to setup
 cd ~
 sudo nano /etc/nginx/sites-enabled/default
 
-# Paset this into default
-
-# or
+Paste this into default
 
 server {
 listen 80 default_server;
